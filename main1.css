@@ -1,0 +1,57 @@
+.tag-head{
+    font-family: "Times New Roman", Times, serif;
+  width: 100px;
+  margin:20px auto;
+}
+.heading-pad{
+  text-align: center;
+}
+.user {
+  text-align: right;
+  vertical-align: middle;
+  margin-right: 5.2em;
+}
+
+body{
+  background-size: 100%;
+   
+}
+
+.login-head {
+  background: none repeat scroll 0 0 #ffffff;
+  height: 370px;
+  margin-left: 505px;
+  margin-right: 488px;
+  margin-top: 132px;
+  opacity: 0.6;
+  padding: 25px;
+  position: relative;
+  width: 358px;
+}
+
+.log-button{
+background-color:skyblue;
+ color:white;
+
+}
+.check-me{
+ color:grey;
+
+}
+.margin-bar{
+  margin-left:35px;
+  margin-right:35px;
+}
+.ptag{
+  margin-top: 87px;
+  margin-left:71px;
+}
+.use-bar:hover{
+ border: 2px solid skyblue;
+}
+.use-bar1:hover{
+ border: 2px solid skyblue;
+}
+
+
+
